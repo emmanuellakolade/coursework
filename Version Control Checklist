@@ -2,19 +2,19 @@
 Account Setup:
 Demonstrates the ability to create a GitHub account (and a repository). -18/09/2023
 Add a README -18/09/2023
-Add/remove various files/folders (.jpg, .gif, .png, .txt, .html).
+Add/remove various files/folders (.jpg, .gif, .png, .txt, .html). -30/09/2023
 
 2
 Repository Basics:
 Can create a new repository on GitHub. -18/09/2023
-Understands the purpose of a README file.
+Understands the purpose of a README file. -18/09/2023
 Knows how to initialize a repository with a README. -18/09/2023
 Can describe the importance of .gitignore files.
 
 3
 Cloning and Forking:
 Understands the difference between cloning and forking a repository.
-Can clone a repository to a local machine.
+Can clone a repository to a local machine.-30/09/23
 Can fork a repository to their own GitHub account.
 
 4.
@@ -26,8 +26,8 @@ Can merge branches using pull requests.
 
 5.
 Commits:
-Can make and commit changes to a repository.
-Understands the importance of clear and descriptive commit messages.
+Can make and commit changes to a repository.-30/09/23
+Understands the importance of clear and descriptive commit messages.-30/09/23
 Knows how to undo changes (revert back to older version).
 
 6.
@@ -44,10 +44,10 @@ Knows how to use comments and discussions in pull requests.
 
 8.
 GitHub Pages (Optional):
-Familiar with using GitHub Pages for hosting websites.
-Can create a simple website using GitHub Pages.
+Familiar with using GitHub Pages for hosting websites. - 30/09/23
+Can create a simple website using GitHub Pages. - 30/09/23
 
 9.
 Documentation:
-Understands the importance of documenting repositories with a README and other documentation files.
+Understands the importance of documenting repositories with a README and other documentation files. - 30/09/23
 Good understanding of the markdown syntax (.md) used for README and other documentation (e.g., inserted titles, images, subsections, code blocks, …)
