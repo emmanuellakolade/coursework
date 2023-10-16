@@ -7,7 +7,8 @@ This file contains a checklist of different tasks that I will complete to show f
 ## Website (New Project) / repository:
  I have created a new website project where I demonstrate uploading files i.e html file, cloning a repository, initializing a README.md file
  I am now familiar with using Github pages to host websites and can create a simple website using Github Pages (30/09/23)
- Implemented more features to the website repository such as navigation bars, implementation of external stylesheet 15/10/23
+ Implemented more features to the website repository such as navigation bars, implementation of external stylesheet (15/10/23)
+ Changed the stylesheet version and i am currently making use of an internal style sheet. I have added more features to this stylesheet to make the webpage more presentable (16/10/23)
 
 
 
